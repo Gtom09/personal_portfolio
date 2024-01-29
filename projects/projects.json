@@ -1,0 +1,54 @@
+[
+  
+  {
+    "name": "Accident Detection App",
+    "desc": "An App that helps detect accidents and notify the nearest hospital with the location of the accident.",
+    "image": "Accident",
+    "category": "APP",
+    "links": {
+      "view": "https://github.com/Gtom09/Accident_Detection_App.git",
+      "code": "https://github.com/Gtom09/Accident_Detection_App.git"
+    }
+  },
+  {
+    "name": "Attendance System",
+    "desc": "Full-Stack website to monitor the entry of students into the system.",
+    "image": "attendance_system",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Gtom09/Attendance_System.git",
+      "code": "https://github.com/Gtom09/Attendance_System.git"
+    }
+  },
+  {
+    "name": "Personal Portfolio",
+    "desc": "A professional portfolio showcasing my skills and expertise in various projects.",
+    "image": "portofolio",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Gtom09/personal_portfolio.git",
+      "code": "https://github.com/Gtom09/personal_portfolio.git"
+    }
+  },
+  {
+    "name": "Simple Game(Js)",
+    "desc": "A simple game to display javascript control flow.",
+    "image": "simple_game",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Gtom09/Simple_Game.git",
+      "code": "https://github.com/Gtom09/Simple_Game.git"
+    }
+  },
+  {
+    "name": "Upcoming",
+    "desc": "NA.",
+    "image": "reactprojects",
+    "category": "m",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+  
+]
