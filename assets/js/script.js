@@ -62,10 +62,6 @@ document.addEventListener('visibilitychange',
             document.title = "Portfolio | Gebin Tom";
             $("#favicon").attr("href", "assets/images/favicon.png");
         }
-        else {
-            document.title = "Come Back To Portfolio";
-            $("#favicon").attr("href", "assets/images/favhand.png");
-        }
     });
 
 
